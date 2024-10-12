@@ -1,2 +1,8 @@
-Overview
-This repository contains projects and resources related to my educational journey and professional development. The projects here demonstrate my skills in Data Analytics, Machine Learning, and Business Management, which I have honed through academic programs and certifications. These projects reflect my ability to work with real-world data, perform analyses, and create insightful visualizations.
+🏫 Education Background
+I hold a strong academic foundation and hands-on experience through the following qualifications:
+
+🎓 Post Graduation in Global Business Management
+🎓 Bachelor's in Computer Application
+🏆 IBM Data Analyst Professional Certificate
+🏅 Microsoft Azure AI-900 Certified
+🏅 NPower Junior Data Analyst Program Graduate
