@@ -1,4 +1,4 @@
-##🏫 Education Background##
+🏫 Education Background
 I hold a strong academic foundation and hands-on experience through the following qualifications:
 
 🎓 Post Graduation in Global Business Management
