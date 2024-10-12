@@ -1,0 +1,2 @@
+Overview
+This repository contains projects and resources related to my educational journey and professional development. The projects here demonstrate my skills in Data Analytics, Machine Learning, and Business Management, which I have honed through academic programs and certifications. These projects reflect my ability to work with real-world data, perform analyses, and create insightful visualizations.
