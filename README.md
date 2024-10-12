@@ -5,4 +5,4 @@ I hold a strong academic foundation and hands-on experience through the followin
 🎓 Bachelor's in Computer Application
 🏆 IBM Data Analyst Professional Certificate
 🏅 Microsoft Azure AI-900 Certified
-🏅 NPower Junior Data Analyst Program Graduate
+🏅 NPower Junior Data Analyst Program Graduate 
