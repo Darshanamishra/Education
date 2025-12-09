@@ -7,4 +7,4 @@ I hold a strong academic foundation and hands-on experience through the followin
 - 🏆 **IBM Data Analyst Professional Certificate**  
 - 🏅 **Microsoft Azure AI-900 Certification**  
 - 🏅 **NPower Junior Data Analyst Program Graduate**
-- 🌍 Fundamentals of GIS – University of California, Davis** 
+- 🌍 **Fundamentals of GIS – University of California, Davis** 
